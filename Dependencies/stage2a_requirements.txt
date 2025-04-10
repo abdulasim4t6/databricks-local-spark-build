@@ -1,0 +1,7 @@
+# Stage 2a: Notebook & Visualization-Related Libraries (stage2a_notebooks.txt)
+nbclassic==0.5.5
+nbclient==0.5.13
+nbconvert==6.5.4
+nbformat==5.7.0
+notebook==6.5.4
+notebook_shim==0.2.2

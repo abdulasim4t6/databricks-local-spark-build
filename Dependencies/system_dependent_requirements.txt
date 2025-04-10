@@ -1,0 +1,4 @@
+# System-dependent packages that require additional system libraries
+dbus-python==1.2.18
+horovod @ git+https://github.com/wenfeiy-db/horovod.git@d510b1d385628f8ac5770199c0824fd5b7e01394
+PyGObject==3.42.1 
